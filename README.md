@@ -33,7 +33,7 @@ Hello, my name is Valeriia and I am 21 years old. I develop websites, layout and
 
 ### ☑️ Work Experience 
 None :( <br>
-So, actually I'm looking for some job :)
+You can see all my projects on GitHub
 <br>
 ### 🍎 Education 
 <ul>
@@ -43,6 +43,8 @@ So, actually I'm looking for some job :)
 </ul>
 <br>
 
+### &#128488; English
+Level: B2 (Upper-Intermediate) 
 ### 📍Location
 Russia, St.Petersburg
 <!--
