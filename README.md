@@ -6,14 +6,14 @@
 
 ### 👁️‍🗨️ Full Name <br>
 **First Name:** Valeriia <br>
-**Last Name:** Levchenko <br>
+**Last Name:** Levchenko 
 
 ### 📩 How to reach me <br>
 **E-mail:** iookowashere@gmail.com <br>
-**Telegram:** @iookowashere <br>
+**Telegram:** @iookowashere 
 ### 🙋‍♀️ About Me <br>
 Hello, my name is Valeriia and I am 21 years old. I develop websites, layout and find interesting solutions to complex problems. I continue to study various programming stacks, trying to improve my knowledge every day. Thinking a lot and solving problems is one of my favorite pastimes. I'm finishing university and looking for interesting job offers.
-  Now I am getting a higher technical education, good and in-depth knowledge of mathematics helps me in mastering development, I also study English and have an intermediate (B2) level. <br>
+  Now I am getting a higher technical education, good and in-depth knowledge of mathematics helps me in mastering development, I also study English and have an intermediate (B2) level. 
 ### 🛠️ Languages and Tools <br>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60">
@@ -25,39 +25,25 @@ Hello, my name is Valeriia and I am 21 years old. I develop websites, layout and
 <img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" title="MaterializeCSS" alt="MaterializeCSS" width="60" height="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60">
 </div>
-<br>
 
 ### 🖥️ Code Examples
 ![Codewars](https://www.codewars.com/users/iooko/badges/large?theme=light) <br>
-<a href="https://www.codewars.com/users/iooko/completed_solutions">Codewars Solutions</a> <br>
+<a href="https://www.codewars.com/users/iooko/completed_solutions">Codewars Solutions</a> 
 
 ### ☑️ Work Experience 
 None :( <br>
 You can see all my projects on GitHub
-<br>
+
 ### 🍎 Education 
 <ul>
    <li>University: Mining University <br>
    Specialty: Materials Science and Technologies of New Materials
    </li>
 </ul>
-<br>
 
 ### &#128488; English
 Level: B2 (Upper-Intermediate) 
+
 ### 📍Location
 Russia, St.Petersburg
-<!--
-**iooko/iooko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
